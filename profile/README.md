@@ -25,3 +25,4 @@ The public repositories of this organization are:
 - 📖 Gitbook: https://liisa.gitbook.io/alpha/introduction/about-liisa
 - 🌐 Website: https://liisa.io/
 - 📈 Web Application: https://app.liisa.io/explore
+- 𝕏 Twitter/X: https://twitter.com/liisa_io
